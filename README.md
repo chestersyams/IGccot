@@ -24,7 +24,7 @@
 * mv unfollnotfollowback.js unfollownotfollowback.js
 * bash run
 
-
+And select number 7
 
 
 # Thank's To:
