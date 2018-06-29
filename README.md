@@ -27,4 +27,6 @@
 
 Ccocot & NaonlahNet & Bc0de.net & Wingkocoli & Dandy & Jrxuii & Auliaahmad16 & Huttarichard
 
-# Follow https://www.instagram.com/mazfikri001
+# Follow 
+* Instagram = https://www.instagram.com/mazfikri001
+* Facebook  = https://www.facebook.com/mazfikri001
