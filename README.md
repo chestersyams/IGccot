@@ -17,7 +17,7 @@
 * pkg install figlet
 * pkg install ruby
 * pkg install lolcat
- gem install lolcat
+* gem install lolcat
 
 # How To Fix Error Unfollow Not Follow Back (Number 7)
 * cd toolsccocot
