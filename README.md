@@ -1,4 +1,5 @@
 # Instagram Bot Tools Ccocot
+ Sebuah Tools Bot Instagram
 
 # How to install on Termux
 * pkg install nodejs
@@ -22,7 +23,7 @@
 * cd toolsccocot
 * mv unfollnotfollowback.js unfollownotfollowback.js
 
-Thank's To:
+# Thank's To:
 
 Ccocot & NaonlahNet & Bc0de.net & Wingkocoli & Dandy & Jrxuii & Auliaahmad16 & Huttarichard
 
