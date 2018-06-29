@@ -22,6 +22,10 @@
 # How To Fix Error Unfollow Not Follow Back (Number 7)
 * cd toolsccocot
 * mv unfollnotfollowback.js unfollownotfollowback.js
+* bash run
+
+
+
 
 # Thank's To:
 
